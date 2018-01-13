@@ -1,0 +1,152 @@
+body{
+  background: #9FF8AC;
+}
+.divBody{
+  width:1350px;
+  display: flex;
+}
+.leftDiv{
+  width:25%;
+  height:610px;
+  background: white;
+  text-align: center;
+  border-radius: 5px;
+  box-sizing: border-box;
+  position: fixed;
+
+  }
+  .leftDiv p{
+    font-size: 1.2em;
+  }
+
+.image1{
+  padding-top: 10px;
+  width: 50%;
+
+  border-radius: 90px 90px 30px 30px;
+}
+.rightDiv{
+  margin-left:27%;
+  background: white;
+  width: 100%;
+  border-radius: 5px;
+  /* height: 100vh; */
+  overflow: auto;
+  overflow-y: scroll;
+  position: relative;
+  padding-left: 10px;
+  }
+  .rightDiv p{
+    font-size: 1.1em;
+  }
+hr{
+  margin: 10px;
+  border-top: 1px solid;
+   height: 2px;
+
+}
+.lchaild{
+  margin:10px;
+
+}
+
+.rchaild{
+  padding: 10px 10px 10px 50px;
+}
+div{
+
+  font-size: 18px;
+
+}
+
+@media(max-width:1000px){
+.divBody{
+  display: flex;
+  flex-wrap: wrap;
+}
+.leftDiv{
+  width: 100%;
+  height: auto;
+    position: relative;
+}
+.profile{
+  width: 100%;
+  text-align: center;
+}
+.image1{
+  width: 10em;
+  height: 10em;
+}
+.rightDiv{
+  margin: 0;
+  overflow-y: hidden;
+  width: 100%;
+  padding: 15px;
+}
+.pdetails{
+  display: flex;
+  box-sizing: border-box;
+}
+.pdetails div{
+  padding: 10px;
+
+}
+div p{
+  color: #0C3E1F;
+  font-size: 24px;
+  font-family: monospace;
+}
+h2{
+  font-size: 20px;
+  }
+h1{
+  font-size: 2.5em;
+}
+.profile p{
+  font-size: 1.9em;
+}
+}
+
+
+   @media only screen and (min-device-width : 320px) and (max-device-width : 600px) {
+     h1{
+       font-size: 5.5em;
+     }
+     .image1{
+       width: 17em;
+       height: 17em;
+     }
+     .leftDiv{
+       display: flex;
+       flex-wrap: wrap;
+     }
+     .pdetails{
+       flex-wrap: wrap;
+
+     }
+     .pdetails p{
+       font-size: 3em;
+     }
+     .lchaild{
+       width: 100%;
+       padding: 0;
+       margin: auto;
+     }
+     .rchaild p{
+       font-size: 2.2em;
+       font-family: monospace;
+     }
+     .profile p{
+       font-size: 3em;
+     }
+     .profile{
+       background:#9FF8AC;
+     }
+     hr{
+       border-top: 1px solid;
+        height: 2px;
+        color: red;
+     }
+
+
+}
