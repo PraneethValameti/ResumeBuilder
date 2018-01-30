@@ -6,7 +6,10 @@ function jsonResume() {
   window.open ('santosh_resume.html','_self',false)
 
 }
+function level3Resume() {
+  window.open ('jsonResume.html','_self',false)
 
+}
 function results() {
   fname = document.getElementById("fname").value;
 }
