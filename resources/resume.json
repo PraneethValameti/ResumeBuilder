@@ -1,13 +1,15 @@
 {
   "basics": {
-    "name": "",
-    "label": "",
-    "picture": "",
-    "email": "",
-    "phone": "",
-    "degree": "",
-    "website": "",
-    "summary": "",
+    "name": "Praneeth Kumar V",
+    "sonof": "S/o Subramanyam",
+    "label": "Software Trainee",
+    "picture": "images/1.gif",
+    "email": "praneethvalameti89@gmail.com",
+    "phone": "7093885623",
+    "address": "Manduvavaripalem, Ongole,Prakasam (district) - 523262",
+    "languages":"English, Hindi and Telugu",
+    "co": "To work for a reputed organization where I could serve it, with the best of My skills and ability contributes for its growth and do acquire skill, which could Make me proper in the future",
+    "expe":"Working in Andhra Pradesh State Skill Development Corporation for 2.7 years. Trained 700 faculty members and 1lakh+ students for google india code to learn contest and my role is trainer cum team lead, and also Trained B.Tech Students on their Projects in the areas of Web Designing and Programming in HTML & PHP Environment and also trained MIT App Inventor tool to develop Android applications, And now learning Android using Android Studio, and also learning new approach PWA(Progressive Web App)",
     "highlights": null,
     "location": {
       "address": "",
@@ -54,26 +56,31 @@
   "additionalWorkLabel": "",
   "education": [
     {
-      "institution": "",
-      "area": "",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "",
-      "gpa": "",
-      "courses": [
-        ""
+      "type": "Graduation",
+      "des": [
+        "Bachelor of Technology, PACE Institute of technology and science,Jawaharlal Nehru Technological University, Kakinada 2011-15, Secured: 60% of marks"
+      ]
+    },
+    {
+      "type": "Intermediate",
+      "des": [
+        "Board of Intermediate Education, AP. Narayana junior College, Ongole, Prakasam (d.t) ,  2009-2011 , Secured:62% of marks"
+      ]
+    },
+    {
+      "type": "S S C",
+      "des": [
+        "Board of Secondary Education, 2009, Venu Gopala High School. Secured: 72% of marks"
       ]
     }
+
+
   ],
-  "publications": [
-    {
-      "name": "",
-      "publisher": "",
-      "releaseDate": "",
-      "website": "",
-      "summary": "",
-      "isbn": ""
-    }
+  "acheivements": [
+       "Participated in workshop on android technology Conducted by GOOGLE",
+       "I won the district wise drawing competition in Nellore",
+       "Presented a PPT in intra district techno cultural fest Conducted by Prakasam engineering College and Got first prize"
+
   ],
   "additionalPublications": [
     {
@@ -89,10 +96,33 @@
   "additionalPublicationsLabel": "",
   "skills": [
     {
-      "name": "",
-      "level": "",
+      "name": "Operating Systems",
       "keywords": [
-        ""
+        "WINDOWS",
+        "LINUX"
+      ]
+    },
+    {
+      "name": "Languages",
+      "keywords": [
+        "Basics in JAVA",
+        "HTML",
+        "JavaScript &PHP",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Tools",
+      "keywords": [
+        "MS OFFICE",
+        "Android Studio",
+        "MIT App Inventor"
+      ]
+    },
+    {
+      "name": "Web Technologies",
+      "keywords": [
+        "HTML"
       ]
     }
   ]
